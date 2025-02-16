@@ -5,7 +5,7 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       defaultCommandTimeout: 9100
     },
-    baseUrl: 'https://proxima2.sisprevweb.com.br/esocial/esocial_04',
+    baseUrl: '',
     viewportWidth:1280,
     viewportHeight:720
   },
